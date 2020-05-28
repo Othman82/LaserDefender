@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserDefender", "LaserDefender\LaserDefender.csproj", "{ED064B01-875F-44D2-8F57-3CBF86E2D851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED064B01-875F-44D2-8F57-3CBF86E2D851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED064B01-875F-44D2-8F57-3CBF86E2D851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED064B01-875F-44D2-8F57-3CBF86E2D851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED064B01-875F-44D2-8F57-3CBF86E2D851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DA96D3F-4E09-41BA-9D0A-1EE3DC9E9137}
+	EndGlobalSection
+EndGlobal
